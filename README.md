@@ -1,5 +1,7 @@
 # Project_Portfolio
 
-Hi and welcome to my project portfolio repository. Please feel free to navigate and contact me if you have any questions. 
+Welcome to my project portfolio repository. I am working on it at the moment so I will be addindg new content frequently. 
+
+Please feel free to navigate and contact me if you have any questions. 
 
 Marta
