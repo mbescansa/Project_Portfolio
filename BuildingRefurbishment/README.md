@@ -1,4 +1,4 @@
-<h1><center>Refurbishment of empty buildings into cultural, entepreneurial and education hubs in Madrid</center><h1>
+# Refurbishment of empty buildings into cultural, entepreneurial and education hubs in Madrid
 
 The city council of Madrid (Spain) counts with 57 empty buildings of its property. As part of the social development strategy, these buildings will be converted into cultural, entrepreneurial and education hubs over the next four years. In order to know which venues should be reconverted sooner, or what type of use should be given to each building, the council has decided to gather data on the areas where each building is located.
 
