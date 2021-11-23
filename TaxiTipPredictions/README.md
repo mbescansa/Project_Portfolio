@@ -14,12 +14,13 @@ This project is divided into two notebooks:
 <br></br>
 <ol>
   <li>Data preparation, exploration and model development.</li>
-  <li>Quick demo to test the model.</li>
+  <li>Quick demo to test the model. Please check the <a href="https://share.streamlit.io/mbescansa/predicting-taxi-tips-in-nyc/main/app_taxi_tip_predictor.py">web application</a> I developed with it.</li>
 </ol> 
 </body>
 </html>
-Additionally I have created an interactive <a href="https://public.tableau.com/app/profile/marta4014/viz/NYC-Taxitippingbehaviour/Dashboard1">Tableau dashboard</a> that you can navigate to learn some more insights about the data.
+Additionally you can find an interactive <a href="https://public.tableau.com/app/profile/marta4014/viz/NYC-Taxitippingbehaviour/Dashboard1">Tableau dashboard</a> that you can navigate to learn some more insights about the data.
 <br></br>
+
 
 # Conclusions
 The resulting model has a limited accuracy rate of 65% that might be improved by adding further data spread across a wider timeline. Still, problems of subjective nature such as tipping or liking a certain product can only be predicted to a certain extent because there is no universal consensus about it.
