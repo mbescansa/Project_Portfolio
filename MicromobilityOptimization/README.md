@@ -13,4 +13,5 @@ With this, we were able to provide the city council with a tailor-made tool to e
   <img src="./resources/priority_sections_1.jpg"  width="500" height="700"/>
 </p>
 
-Team members: Nicolo Ferrari, Elena Salgueiro, Desh Deepak, Marta Bescansa
+# Team members
+Nicolo Ferrari, Elena Salgueiro, Desh Deepak, Marta Bescansa
